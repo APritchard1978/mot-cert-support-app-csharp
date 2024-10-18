@@ -1,3 +1,6 @@
+# Demo Branch Changes
+This is to test the branching now that I have created another branch for this repository. Demo-Branch. This gives me the option to do more changes away from the main trunk
+
 # Anita Comments
 This is the GitHub exercise from the Version Control Module
 To get here, I found a MoT Repository on their GitHub. FORKED it onto my profile to have a local branch on my own GitHub profile.
