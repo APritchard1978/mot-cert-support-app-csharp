@@ -1,3 +1,9 @@
+# Anita Comments
+This is the GitHub exercise from the Version Control Module
+To get here, I found a MoT Repository on their GitHub. FORKED it onto my profile to have a local branch on my own GitHub profile.
+I then went onto my own GitHub Desktop and created a 'CLONE' to branch off the main local Version
+Then I found the downloaded, aka Cloned, version on my machine and made these changes here on the README. File
+
 # TimeSheet Manager
 This project is a simple time sheet manager application. It allows users to log in to the application and add time sheet entries. Users can log in as either standard or admin users with admin users being able to create new timesheets, users and view reports.
 
